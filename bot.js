@@ -11,7 +11,7 @@ client.user.setPresence({
      type: 0,
      name: 'No One DM Me',
      details: `BOT Dev And Host`,
-     url: 'https://www.twitch.tv/robenhoodsy97',
+     url: 'https://www.twitch.tv/randomgate',
      state: `Surprise Mother Fuckers`,
     application_id: '377479790195769345',
      assets: {
